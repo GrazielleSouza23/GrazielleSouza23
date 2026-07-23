@@ -27,6 +27,10 @@
   <img src="https://img.shields.io/badge/Email-Entre%20em%20contato-00B8D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
+<a href="https://graziellesouza.ct.ws/">
+  <img src="https://img.shields.io/badge/🌐_Portfólio-Visite_meu_portfólio-6C63FF?style=for-the-badge" alt="Portfólio">
+</a>
+
 </div>
 
 ---
