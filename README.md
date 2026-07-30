@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner-grazielle.png" width="100%" alt="Banner de Grazielle Souza">
+<img src="./assets/Banner - Grazielle (ADS).png" width="100%" alt="Banner de Grazielle Souza">
 
 <br>
 
