@@ -301,10 +301,6 @@ Estou aberta a **oportunidades, projetos e conexões** na área de tecnologia. �
   <img src="https://img.shields.io/badge/💼_LinkedIn-Grazielle_Souza-0A66C2?style=for-the-badge" alt="LinkedIn">
 </a>
 
-<a href="https://wa.me/5519982549250">
-  <img src="https://img.shields.io/badge/📱_WhatsApp-(19)%2098254--9250-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-</a>
-
 <a href="https://graziellesouza.ct.ws/">
   <img src="https://img.shields.io/badge/🌐_Portfólio-graziellesouza.ct.ws-6C63FF?style=for-the-badge" alt="Portfólio">
 </a>
