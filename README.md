@@ -4,7 +4,7 @@
 
 <br>
 
-### 💻 Desenvolvedora Web Júnior
+### 💼 Analista e Desenvolvedora de Sistemas Júnior
 
 <p>
   Tecnóloga em Análise e Desenvolvimento de Sistemas • Técnica em Desenvolvimento de Sistemas
@@ -13,8 +13,9 @@
 <p>
   🌐 Desenvolvimento Web &nbsp;•&nbsp;
   🗄️ Banco de Dados &nbsp;•&nbsp;
-  🔐 Segurança &nbsp;•&nbsp;
-  📱 Interfaces Responsivas
+  🔐 Segurança da Informação &nbsp;•&nbsp;
+  🛠️ Suporte Técnico &nbsp;•&nbsp;
+  📊 Análise de Sistemas
 </p>
 
 <br>
@@ -37,17 +38,17 @@
 
 ## 👩‍💻 Sobre mim
 
-Olá! Eu sou **Grazielle Souza**, desenvolvedora web com formação em **Análise e Desenvolvimento de Sistemas** e **Técnico em Desenvolvimento de Sistemas**.
+Olá! Eu sou **Grazielle Souza**, Analista e Desenvolvedora de Sistemas Júnior, com formação em **Análise e Desenvolvimento de Sistemas** (UNIP) e **Técnico em Desenvolvimento de Sistemas** (ETEC de Monte Mor).
 
-Tenho experiência prática no desenvolvimento de aplicações web e na administração, configuração e personalização de plataformas educacionais utilizando **Moodle**.
+Minha atuação combina **capacidade analítica** e **visão sistêmica** para entregar soluções completas – desde o desenvolvimento de aplicações web até a administração de plataformas educacionais, suporte técnico especializado e modelagem de banco de dados.
 
-Meu foco está na construção de sistemas **funcionais, seguros, organizados e responsivos**, buscando aplicar boas práticas de desenvolvimento e aprimorar continuamente meus conhecimentos.
+Tenho experiência prática no ecossistema **Web** (PHP, JavaScript, HTML5, CSS3/SCSS), **bancos de dados relacionais** (MySQL, Oracle), **arquitetura MVC**, **operações CRUD** e **segurança da informação**. Também domino a administração e personalização do **Moodle**, além de conhecimentos em linguagens como **Java** e **C#**, controle de versionamento com **Git/GitHub** e ferramentas de modelagem.
 
-🎯 Atualmente, busco uma oportunidade como **Desenvolvedora Web Júnior**, onde possa contribuir com projetos reais, colaborar com equipes de tecnologia e continuar evoluindo profissionalmente.
+🎯 **Objetivo profissional:** atuar como **Analista de Sistemas/Suporte** ou **Desenvolvedora Full-Stack Júnior**, aplicando minha capacidade lógica e analítica para resolver problemas complexos, colaborar com equipes multidisciplinares e evoluir continuamente diante de novos desafios corporativos.
 
 ---
 
-# 🧰 Minha Stack
+## 🧰 Minha Stack
 
 ### 🌐 Desenvolvimento Web
 
@@ -55,7 +56,7 @@ Meu foco está na construção de sistemas **funcionais, seguros, organizados e 
   <img src="https://skillicons.dev/icons?i=php,js,html,css" alt="Tecnologias Web">
 </p>
 
-### ☕ Programação
+### ☕ Programação Back-End
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,cs" alt="Linguagens de Programação">
@@ -79,23 +80,24 @@ Meu foco está na construção de sistemas **funcionais, seguros, organizados e 
   <img src="https://img.shields.io/badge/Moodle-F98012?style=for-the-badge&logo=moodle&logoColor=white" alt="Moodle">
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
+  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle SQL Developer">
+  <img src="https://img.shields.io/badge/Astah%20UML-005C9E?style=for-the-badge" alt="Astah UML">
 </p>
 
 ---
 
-# 🚀 Projetos em destaque
+## 🚀 Projetos em destaque
 
 <div align="center">
 
-## 🌐 Gatos da Lagoa Taquaral
+### 🌐 Gatos da Lagoa Taquaral
 
 **Site institucional + Painel Administrativo**
 
 </div>
 
-Projeto desenvolvido voluntariamente para uma **ONG de proteção animal**, utilizando **PHP, MySQL, HTML5, CSS3 e JavaScript**.
-
-A aplicação possui conteúdo dinâmico e um painel administrativo desenvolvido para facilitar o gerenciamento do conteúdo do site.
+Projeto voluntário para uma **ONG de proteção animal**, desenvolvido com **PHP, MySQL, HTML5, CSS3 e JavaScript**. Sistema completo com conteúdo dinâmico, painel administrativo e foco em segurança.
 
 #### 🔐 Segurança
 
@@ -139,15 +141,13 @@ A aplicação possui conteúdo dinâmico e um painel administrativo desenvolvido
 
 <div align="center">
 
-## 🎫 Sistema de Chamados e Suporte
+### 🎫 Sistema de Chamados e Suporte
 
 **Java • MVC • MySQL • Segurança**
 
 </div>
 
-Aplicação desktop desenvolvida em **Java** para gerenciamento e rastreamento de chamados de suporte técnico.
-
-O projeto utiliza arquitetura **MVC**, com foco em organização do código, segurança e eficiência na camada de persistência.
+Aplicação desktop robusta em **Java** para gestão centralizada e rastreamento de tickets de suporte técnico, com arquitetura **MVC**, foco em segurança e alta performance na camada de persistência.
 
 #### 🏗️ Arquitetura
 
@@ -182,13 +182,13 @@ O projeto utiliza arquitetura **MVC**, com foco em organização do código, seg
 
 <div align="center">
 
-## 🤖 LAGH — Automação do Teorema de Tales
+### 🤖 LAGH — Automação do Teorema de Tales
+
+**Robótica aplicada à matemática**
 
 </div>
 
-Projeto desenvolvido durante minha formação técnica e apresentado na **VII Mostra Científica, Tecnológica e Cultural (MCTEC)**.
-
-O projeto consistiu no desenvolvimento de um robô para realizar medições de alturas utilizando princípios matemáticos relacionados ao **Teorema de Tales**.
+Projeto de TCC apresentado na **VII Mostra Científica, Tecnológica e Cultural (MCTEC)**: um robô para medir alturas aplicando princípios do **Teorema de Tales**.
 
 🏆 **Projeto apresentado na VII MCTEC**
 
@@ -202,58 +202,73 @@ O projeto consistiu no desenvolvimento de um robô para realizar medições de a
 
 ---
 
-# 💼 Experiência
+## 💼 Experiência Profissional
 
 ### 📚 Desenvolvedora Web / Administradora Moodle
+
+**Projeto de Plataforma Educacional** – Parceria com professor Sandro Bocaneri  
+📅 nov/2025 – jul/2026
 
 Atuação no desenvolvimento, administração, configuração e personalização de uma plataforma educacional baseada em **Moodle**.
 
 #### ⚙️ Principais atividades
 
 - Administração e configuração do ambiente Moodle
-- Estruturação de categorias, cursos, módulos e atividades
-- Importação e gerenciamento de usuários
-- Organização de conteúdos, exercícios e avaliações
-- Criação e gerenciamento de banco de questões
-- Instalação e configuração de plugins
-- Customização da interface utilizando **SCSS/CSS**
-- Estruturação de plataforma educacional
-- Suporte técnico e manutenção da plataforma
+- Estruturação de categorias, cursos, módulos, turmas e atividades
+- Importação e gerenciamento de usuários via arquivos CSV
+- Organização e publicação de conteúdos educacionais, exercícios, avaliações e materiais didáticos
+- Criação e gerenciamento de banco de questões e atividades avaliativas
+- Criação e configuração de formulários e atividades interativas
+- Instalação, configuração e utilização de plugins para expansão de funcionalidades
+- Customização da interface e identidade visual com **SCSS/CSS**
+- Organização da estrutura pedagógica de um cursinho preparatório com duração de 10 meses e múltiplos módulos
+- Apoio técnico ao professor na implementação e manutenção da plataforma
 
 ---
 
-# 🧠 Conhecimentos Técnicos
+## 🧠 Conhecimentos Técnicos
 
 | Área | Conhecimentos |
 |---|---|
-| 🌐 **Web** | PHP • JavaScript • HTML5 • CSS3 • Desenvolvimento Responsivo |
-| ☕ **Programação** | Java • C# • POO • Lógica de Programação |
+| 🌐 **Desenvolvimento Web** | PHP • JavaScript • HTML5 • CSS3 • SCSS • Desenvolvimento Responsivo |
+| ☕ **Programação Back-End** | Java • C# • Python • POO • Lógica de Programação |
 | 🏗️ **Arquitetura** | MVC • Separação de responsabilidades |
-| 🗄️ **Banco de Dados** | MySQL • Oracle • SQL • CRUD |
-| 🔐 **Segurança** | Autenticação • Sessões • Hash de Senhas • Prepared Statements • Criptografia |
-| 📚 **Plataformas** | Moodle |
-| 🔧 **Ferramentas** | Git • GitHub • VS Code • XAMPP • Figma • Power BI • Astah UML |
+| 🗄️ **Banco de Dados** | MySQL • Oracle • SQL • CRUD • Modelagem de Dados |
+| 🔐 **Segurança** | Autenticação • Sessões • Hash de senhas • Prepared Statements • Criptografia |
+| 📚 **Plataformas Educacionais** | Moodle (administração, configuração, customização) |
+| 🛠️ **Suporte Técnico** | Manutenção de sistemas • Atendimento a usuários • Resolução de incidentes |
+| 📊 **Análise de Sistemas** | Levantamento de requisitos • Modelagem UML • Documentação |
+| 🔧 **Ferramentas** | Git • GitHub • VS Code • XAMPP • Figma • Power BI • Astah UML • MySQL Workbench • Oracle SQL Developer • NetBeans • Visual Studio • Microsoft Office |
 
 ---
 
-# 🎓 Formação
+## 🎓 Formação Acadêmica
 
 ### 🎓 Análise e Desenvolvimento de Sistemas
 
-**UNIP — Universidade Paulista**
-
-📅 Concluído em 2026
-
+**UNIP — Universidade Paulista**  
+📅 ago/2024 – jun/2026 (Concluído)
 
 ### 💻 Técnico em Desenvolvimento de Sistemas
 
-**ETEC de Monte Mor**
-
-📅 Concluído em 2022
+**ETEC de Monte Mor** – Ensino Médio Integrado  
+📅 fev/2020 – dez/2022 (Concluído)
 
 ---
 
-# 🌱 Em constante evolução
+## 🏅 Certificações e Prêmios
+
+- Introdução à Linguagem Python com Foco em Ciência de Dados e Inteligência Artificial — 2022
+- Certificado da VII Edição da Mostra Científica, Tecnológica e Cultural (MCTEC) — 2022
+- Certificado da 25° Olimpíada Brasileira de Astronomia e Astronáutica — 2022
+- Menção Honrosa na 15ª Olimpíada Brasileira de Matemática das Escolas Públicas (OBMEP) — 2019
+- Medalha de Prata nas Olimpíadas Canguru de Matemática — 2021
+- EF SET Certificate — Inglês Intermediário (Leitura e Audição) — 2024
+- Técnico em Desenvolvimento de Sistemas — ETEC de Monte Mor (2022)
+
+---
+
+## 🌱 Em constante evolução
 
 Atualmente, estou focada em continuar aprimorando meus conhecimentos em:
 
@@ -262,18 +277,17 @@ Atualmente, estou focada em continuar aprimorando meus conhecimentos em:
 <img src="https://img.shields.io/badge/🚀_Desenvolvimento_Web-6C63FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/🧩_Frameworks-00B8D9?style=for-the-badge">
 <img src="https://img.shields.io/badge/🧪_Testes-8E44AD?style=for-the-badge">
-
-<img src="https://img.shields.io/badge/🔐_Segurança-6C63FF?style=for-the-badge">
-<img src="https://img.shields.io/badge/🏗️_Arquitetura-00B8D9?style=for-the-badge">
+<img src="https://img.shields.io/badge/🔐_Segurança_Ofensiva_e_Defensiva-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/🏗️_Arquitetura_de_Software-00B8D9?style=for-the-badge">
 <img src="https://img.shields.io/badge/🔄_Metodologias_Ágeis-8E44AD?style=for-the-badge">
-<img src="https://img.shields.io/badge/📈_Boas_Práticas-6C63FF?style=for-the-badge">
+<img src="https://img.shields.io/badge/📈_Boas_Práticas_de_DevOps-6C63FF?style=for-the-badge">
 <img src="https://img.shields.io/badge/📚_Aprendizado_Contínuo-00B8D9?style=for-the-badge">
 
 </p>
 
 ---
 
-# 📫 Vamos conversar?
+## 📫 Vamos conversar?
 
 <div align="center">
 
@@ -285,6 +299,14 @@ Estou aberta a **oportunidades, projetos e conexões** na área de tecnologia. �
 
 <a href="https://www.linkedin.com/in/grazielle-souza-5374bb315/">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Grazielle_Souza-0A66C2?style=for-the-badge" alt="LinkedIn">
+</a>
+
+<a href="https://wa.me/5519982549250">
+  <img src="https://img.shields.io/badge/📱_WhatsApp-(19)%2098254--9250-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
+
+<a href="https://graziellesouza.ct.ws/">
+  <img src="https://img.shields.io/badge/🌐_Portfólio-graziellesouza.ct.ws-6C63FF?style=for-the-badge" alt="Portfólio">
 </a>
 
 </div>
